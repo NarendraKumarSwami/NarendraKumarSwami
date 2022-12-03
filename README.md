@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <h1>Hi, I'm  Narendra Swami</h1>
 <hr>
 I am passionate Java Baackend Developer
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=NarendraKumarSwami)
