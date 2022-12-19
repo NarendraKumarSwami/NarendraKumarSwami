@@ -9,8 +9,8 @@
 Passionate and Aspiring Java-Backend Developer with hands on experience of projects. looking forward to work on exciting projects.  
 
 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/narendra-swami-5958b6186/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](narendrakumarswami786@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-swami-5958b6186/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://narendrakumarswami786@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://narendrakumarswami.github.io/)
 
 
