@@ -1,12 +1,19 @@
-### Hi there 👋,
 
 
+<div>
+  <ul>
+    <li>👋 Hi, I'm <a href="https://github.com/NarendraKumarSwami">@narendrakumarswami</a></li>
+     <li>📋 My resume : <a href="https://drive.google.com/file/d/1TKKcT7HTRgZYAiBGq-1GhbsUx8eV3oSH/view?usp=share_link">narendra_swami_resume</a></li>
+  </ul>
 
-<a  href="https://www.linkedin.com/in/narendra-swami-5958b6186/">LinkIn</a>
+</div>
 
-<h1  align="center">I'm Narendra Swami</h1>
 
-![Full-stack developer](https://user-images.githubusercontent.com/35601179/208376229-8415d6eb-4ef4-4b61-bfc7-61893250a5f4.gif)
+<h1  align="center">Hello 👋, I'm Narendra Swami</h1>
+<div>
+<img style="margin: 0 auto;" src="https://user-images.githubusercontent.com/35601179/208376229-8415d6eb-4ef4-4b61-bfc7-61893250a5f4.gif" alt="full-stack developer" />
+</div>
+
 <!--
 **NarendraKumarSwami/NarendraKumarSwami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
