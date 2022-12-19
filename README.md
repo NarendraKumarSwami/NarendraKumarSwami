@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm  Narendra Swami
-<hr>
+
 ### Passionate and Aspiring Java-Backend Developer with hands on expriences of projects at masai school. I am looking forwards to work on amazing projects to utilize my knowledge and exprience.
 
 
