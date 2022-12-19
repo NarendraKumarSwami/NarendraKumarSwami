@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hi, I'm  Narendra Swami</h1>
+# Hi, I'm  Narendra Swami
 <hr>
-I am passionate Java Baackend Developer
+### Passionate and Aspiring Java-Backend Developer with hands on expriences of projects at masai school. I am looking forwards to work on amazing projects to utilize my knowledge and exprience.
+
+
+## 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NarendraKumarSwami)
