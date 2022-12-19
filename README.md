@@ -1,15 +1,19 @@
 
-
-<div>
   <ul>
     <li>👋 Hi, I'm <a href="https://github.com/NarendraKumarSwami">@narendrakumarswami</a></li>
      <li>📋 My resume : <a href="https://drive.google.com/file/d/1TKKcT7HTRgZYAiBGq-1GhbsUx8eV3oSH/view?usp=share_link">narendra_swami_resume</a></li>
   </ul>
 
-</div>
-
 
 <h1  align="center">Hello 👋, I'm Narendra Swami</h1>
+Passionate and Aspiring Java-Backend Developer with hands on experience of projects. looking forward to work on exciting projects.  
+
+
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/narendra-swami-5958b6186/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](narendrakumarswami786@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://narendrakumarswami.github.io/)
+
+
 <div>
 <img style="margin: 0 auto;" src="https://user-images.githubusercontent.com/35601179/208376229-8415d6eb-4ef4-4b61-bfc7-61893250a5f4.gif" alt="full-stack developer" />
 </div>
@@ -24,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at Masai School
 - 🤔 I’m looking to work on exciting projects
 
-Passionate and Aspiring Java-Backend Developer with hands on experience of projects. looking forward to work on exciting projects.
+
 
 
 
