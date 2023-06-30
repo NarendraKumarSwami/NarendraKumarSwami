@@ -6,7 +6,7 @@
 
 
 <h1  align="center">Hello 👋, I'm Narendra Swami</h1>
-Passionate and Aspiring Java-Backend Developer with hands on experience of projects. looking forward to work on exciting projects.  
+Passionate and Aspiring Java Software Developer with hands on experience of projects. looking forward to work on exciting projects.  
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-swami-5958b6186/)
@@ -24,9 +24,9 @@ Passionate and Aspiring Java-Backend Developer with hands on experience of proje
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Java-Backend
-- 🌱 I’m currently learning at Masai School
-- 🤔 I’m looking to work on exciting projects
+- 🔭 I’m here as Java Software Developer.
+- 🌱 I'm excited to learn more in Java Software Field.
+- 🤔 I always open to help others in learning.
 
 
 
