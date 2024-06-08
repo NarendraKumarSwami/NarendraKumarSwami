@@ -6,7 +6,7 @@
 
 
 <h1  align="center">Hello 👋, I'm Narendra Swami</h1>
-Passionate and Aspiring Java Software Developer with hands on experience of projects. looking forward to work on exciting projects.  
+Passionate and Aspiring Full Stack Software Developer with hands on experience of projects. looking forward to work on exciting projects.  
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-swami-5958b6186/)
